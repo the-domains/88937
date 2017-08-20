@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -58,3 +57,5 @@ purpose:
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ad8d23a-54f2-43d0-a583-e5303b86d903.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b259231-c13f-4545-bf88-eb5f21d1d6de.png
